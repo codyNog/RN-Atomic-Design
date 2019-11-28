@@ -1,0 +1,3 @@
+const primaryColor = "";
+
+export { primaryColor };
